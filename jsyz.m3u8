@@ -123,6 +123,9 @@ https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="zee",Zee Anmol Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2K6zphCP8I7Ru5AkkOEw5NennFaaVcZb6g&s" group-title="zee",Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
