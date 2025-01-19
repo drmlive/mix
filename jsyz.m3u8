@@ -88,53 +88,213 @@ https://live.drmlive-02.workers.dev/jc/530.m3u8
 #EXTINF:-1 tvg-id="694" group-title="News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 https://live.drmlive-02.workers.dev/jc/694.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="zee",Zee TV HD
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="zee",&tv HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="zee",&Xplor HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="zee",&pictures HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="zee",Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="zee",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="zee",Big Magic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/2880px-%26priv%C3%A9_HD.svg.png" group-title="zee",&prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="zee",Zee Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="zee",Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="zee",Zee Anmol Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2K6zphCP8I7Ru5AkkOEw5NennFaaVcZb6g&s" group-title="zee",Zee Anmol Cinema 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="zee",Zee Anmol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-anmol.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png" group-title="zee",Zee Punjabi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-punjabi.m3u8
+#EXTINF:-1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_list/1170x658withlogo019c8cb0af414e68a6008efc72c6a72f.png" group-title="News", Aaj Tak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeenews/channel_list/1170x658withlogo4f46c0d87b44459fb517a3f81f5cf754.png" group-title="News", Zee News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeenews.m3u8
+#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_list/indiatoday1170x658withlogo410d6610b5e84f34beb1298b4e227b12.png" group-title="News", India Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/indiatoday.m3u8
+#EXTINF:-1 tvg-id="0-9-255" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-255/channel_list/goodnews1170x658withlogof6c4a3ed182348079c1710c2311eccf1.png" group-title="News", Good News Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/255.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" group-title="Movie", &Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_list/zeepunjabharyana1170x658withlogo44ed4e5137c346289eea189dbe9e50ab.png" group-title="News", Zee Punjab Haryana Himachal Pradesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeepunjabharyanahima.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebusiness/channel_list/1170x658withlogo9611c04d000440bf82c8886fe88a6b00.png" group-title="News", Zee Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeebusiness.m3u8
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_list/zeekalak1170x658withlogo014b571be14149889c3c88c4c67a1118.png" group-title="News", Zee 24 Kalak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zee24kalak.m3u8
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24taas/channel_list/1170x658withlogoe1338db349df4c06b683e499a9be7b99.png" group-title="News", Zee 24 Taas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zee24taas.m3u8
+#EXTINF:-1 tvg-id="0-9-wion" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_list/1170x658withlogoa1b4437d42054b89a58719dda68e71ad.png" group-title="News", WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/wion.m3u8
+#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeehindustan/channel_list/1170x658withlogof2d15c95666448a08e91c96a894e6b90.png" group-title="News", Zee Bharat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeehindustan.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/channel_list/zeebiharjharkand1170x658withlogo0fd8020b929e4301ae60d9d2e2cd100a.png" group-title="News", Zee Bihar Jharkhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeebiharjharkhand.m3u8
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_list/zee24ghanta1170x658withlogoca0f73a663df46adb7735484471050f2.png" group-title="News", Zee 24 Ghanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/24ghantatv.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_list/1170x658withlogo526477b4afd44089a9df2e08968c0e11.png" group-title="News", Zee Delhi NCR Haryana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeekalinganews.m3u8
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeerajasthannews/channel_list/1170x658withlogoa29f030fd47e48a78a72595b5c8bb5fd.png" group-title="News", Zee Rajasthan News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeerajasthannews.m3u8
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/channel_list/zeemadhyapradeshchatisgarh1170x658withlogo504835d8eb9c425994490ce7f73c215e.png" group-title="News", Zee Madhya Pradesh Chhattisgarh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeemadhyapradeshchat.m3u8
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="Entertainment", Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_list/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" group-title="Music", Zing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png" group-title="Entertainment", &TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_list/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png" group-title="Entertainment", Zee Marathi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeemarathi.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_list/1170x658withlogo3ab45ffee3a94b99b4f2f41859514f0f.png" group-title="Entertainment", Zee Yuva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeyuva.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png" group-title="Entertainment", Zee Cafe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="Movie", Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_list/1170x658withlogo50ed391190a84c3b88b49c6efa7624db.png" group-title="Entertainment", Zee Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertainment", Zee Telugu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeetelugu.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png" group-title="Entertainment", Zee Kannada HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeekannada.m3u8
+#EXTINF:-1 tvg-id="0-9-129" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_list/1170x658withlogoea00fd123614470c9f82e2fde66280e4.png" group-title="Entertainment", Zee Keralam HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/129.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Entertainment", Zee Bangla HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="Entertainment", Zee Anmol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" group-title="Movie", Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_list/1170x658withlogoe8f8c52041fb4e1bbe03ea82cf72e557.png" group-title="Movie", Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeecinemalu.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png" group-title="Movie", &Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_list/1170x658483062857.png" group-title="Movie", Zee Talkies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeetalkies.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_list/1170x658withlog1238879598.png" group-title="Movie", Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#EXTINF:-1 tvg-id="0-9-215" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_list/1170x658withlogoce2ca382ce0d467190d9a3e9cb6af78d.png" group-title="Entertainment", Zee Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/215.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog1721007595.png" group-title="Movie", Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/1170x658withlogo9806c31f295c43429c966219ea84fb6b.png" group-title="Movie", Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_list/1170x658withlog1269578414.png" group-title="Movie", &Pictures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_list/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Movie", Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="Movie", Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movie", &flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1144658965/channel_list/1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.png" group-title="Devotional", Sanskar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/channel_1144658965.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_list/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png" group-title="Entertainment", Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeetv.m3u8
+#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeesalaam/channel_list/zeesalam1170x658withlogoa14b7257bbf049f1aae21e7671567ae2.png" group-title="News", Zee Salaam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/zeesalaam.m3u8
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-sarthaktv/channel_list/1170x658withlog1150431941.png" group-title="Entertainment", Zee Sarthak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/sarthaktv.m3u8
+#EXTINF:-1 tvg-id="0-9-183" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-183/channel_list/1170x658withlog1124442022.png" group-title="Devotional", Hare Krsna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/183.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_265145625/channel_list/zeenewsuttarpradeshuttrakand1170x658withlogo0bc27885bd084dc88d28607e673c3fb9.png" group-title="News", Zee News Uttar Pradesh Uttrakhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/channel_265145625.m3u8
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="Movie", Zee Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/176.m3u8
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="Movie", &xplorHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_list/1170x658withlogo20909261.png" group-title="Movie", Zee Biskope
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/216.m3u8
+#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_list/1170x658withlogo411383076d7e42eeb3ea401e38cde895.png" group-title="Movie", Zee Thirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/224.m3u8
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", Zee Zest HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/348.m3u8
+#EXTINF:-1 tvg-id="0-9-241" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_list/1170x658withlogo17e0258ea085445e9ad750f9b5e2a310.png" group-title="Movie", Zee Picchar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/241.m3u8
+#EXTINF:-1 tvg-id="0-9-394" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_list/1170x658717187404.png" group-title="Movie", Zee Chitramandir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/394.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383466/channel_list/1170x65804080eea19d54242aa9e587e04ed6bf7.png" group-title="Entertainment", Zee Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383466.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" group-title="Entertainment", Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383484.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383485/channel_list/1170x658ddaf741082ae418bb82943168af5f8da.png" group-title="Entertainment", Zee Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383485.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383486/channel_list/1170x6589dd8f842c0b5444e8c869654d0393648.png" group-title="Entertainment", Zee Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383486.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383487/channel_list/1170x6587240d2719959498e9d34d03bf21e9dfb.png" group-title="Entertainment", Zee Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383487.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383488/channel_list/1170x658withlogo4753e8766d8c4855a3cbeedbf4dea6d0.png" group-title="Movie", Zee Cinemalu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383488.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398768/channel_list/1170x658042cf19153ff4a83938e5682c2b92b59.png" group-title="Devotional", Aastha Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398768.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398770/channel_list/1170x6580c0b1f0b80c14441b5d15b2154806784.png" group-title="Devotional", Aastha Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398770.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398771/channel_list/1170x658761699067ac746c09ae79c3de315e2df.png" group-title="Devotional", Aastha Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398771.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398791/channel_list/1170x65872d70eaa6f5646318005384e42d14078.png" group-title="Devotional", Aastha Gujarati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398791.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398792/channel_list/1170x658c79674cf57ac4de48addad4284053d8e.png" group-title="Devotional", Dharm Sandesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398792.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398793/channel_list/1170x658ffffcd473c784a51b16ca2818c6d046f.png" group-title="Devotional", Aastha Bhajan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398793.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383489/channel_list/1170x658withlogoe11e2cce715b456990218cd26e7da994.png" group-title="Movie", Zee Talkies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5383489.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398761/channel_list/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" group-title="Devotional", Aastha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://live.drmlive-02.workers.dev/sliv/sony.m3u8
