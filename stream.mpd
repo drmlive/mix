@@ -17,7 +17,7 @@
 			<Representation id="0" mimeType="video/mp4" codecs="avc1.640028" bandwidth="54885" width="1920" height="1088" sar="1:1">
 				<SegmentTemplate timescale="15360" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="41">
 					<SegmentTimeline>
-						<S t="4147200" d="92160" r="4" />
+						<S t="4147200" d="92160" r="6" />
 					</SegmentTimeline>
 				</SegmentTemplate>
 			</Representation>
